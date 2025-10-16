@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Meine erste Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background: linear-gradient(120deg, #f0f0f0, #cce7ff);
+      margin: 0;
+      padding: 40px;
+    }
+    h1 {
+      color: #333;
+    }
+    p {
+      max-width: 600px;
+      margin: auto;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Willkommen auf meiner Website!</h1>
+  <p>Ich bin Schüler und interessiere mich für digitales Business und Webentwicklung.</p>
+  <p>Dies ist meine erste selbstgemachte Website mit HTML – kostenlos gehostet auf GitHub Pages!</p>
+</body>
+</html>
